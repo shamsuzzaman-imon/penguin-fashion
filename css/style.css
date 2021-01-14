@@ -1,7 +1,98 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+
+}
+
 header{
     background-image: url(../images/banner.png);
-    background-repeat: no-repeat;
     background-position: cover;
-    height: 500px;
+    height: 600px;
+    
+}
+.custom-nav ul li{
+    padding: 0px 50px;
+    padding-top: 15px;
+}
+.logo{
+    width: 300px;
+    padding-top: 10px;
+   
+}
+
+.banner-area{
+    height: 700px;
+}
+
+#blue{
+    font-weight: bold;
+    font-size: 45px;
+    color: #363958;
+}
+
+#orange{
+    color: #FABE4C;
+    font-weight: bold;
+    font-size: 45px;
+}
+
+.half-width{
+    width: 45%;
+    margin-left: 5%;
+    
+}
+
+.half-width img{
+    width: 100%;
+}
+
+.orange-highlight{
+    color: #FABE4C;
+    font-weight: bold;
+    font-size: 45px;
+    margin: 0 20px;
+}
+
+.blue-highlight{
+    color: #363958;
+    font-weight: bold;
+    font-size: 25px;
+    
+}
+.title{
+    padding: 4px;
+}
+
+.button-color{
+    background-color: #93AD2D;
+    color: #ffffff;
+    padding: 10px 15px;  
+    
+}
+.item-section img{
+    width: 300px;
+    height: 350px;
+    background-color: #F1F1F1;
+    border-radius: 10px;
+    margin-top: 1em;
+}
+.p-gray{
+    color: gray;
+}
+
+.jacket-card{
+    border: 0px;
+}
+
+.jacket-card-footer{
+    border: 0px;
+    background-color: #ffffff;
+}
+.section-title{
+    color: #363958;
+    font-weight: bold;
+    font-size: 35px;
+    margin-bottom: 1em;
     
 }
