@@ -9,6 +9,7 @@ header{
     background-image: url(../images/banner.png);
     background-position: cover;
     height: 600px;
+    flex-wrap: wrap;
     
 }
 .custom-nav ul li{
@@ -109,4 +110,6 @@ header{
     width: 35em;
     
 }
+
+/* =======responsive code here=======  */
 
