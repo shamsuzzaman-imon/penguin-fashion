@@ -93,6 +93,20 @@ header{
     color: #363958;
     font-weight: bold;
     font-size: 35px;
-    margin-bottom: 1em;
+    margin-bottom: 1em;  
+}
+
+.last-section{
+    margin-top: 6em;
+    margin-bottom: 4em;
+}
+
+.group-img{
+    width: 6em;
     
 }
+.right-img{
+    width: 35em;
+    
+}
+
